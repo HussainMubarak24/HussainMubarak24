@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussainmubarak24&label=Profile%20views&color=0e75b6&style=flat" alt="hussainmubarak24" /> </p>
 
-- 🌱 I’m currently learning **CCNA: Switching & Routing**
+- 🌱 I’m currently learning **Spring Boot 3**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/hussain-mubarak-6340653b/recent-activity/all/](https://www.linkedin.com/in/hussain-mubarak-6340653b/recent-activity/all/)
 
